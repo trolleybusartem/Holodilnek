@@ -1,9 +1,6 @@
 import kivy
-from playsound import playsound
 kivy.require("1.9.1")
-import kivy
 from playsound import playsound
-kivy.require("1.9.1")
 from kivy.app import App
 from kivy.uix.button import Button
 class Holodilnik(App):
