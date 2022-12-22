@@ -1,2 +1,0 @@
-pip install kivy
-pip install playsound
